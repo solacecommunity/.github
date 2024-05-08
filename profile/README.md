@@ -9,7 +9,7 @@
 
 </div>
 
-## Hi there 👋 Welcome to the Solace Community Github Organization! 
+## Hi there 👋 Welcome to the SolaceCommunity Github Organization! 
 
 SolaceCommunity offers community supported, authored and maintained open source projects. These projects offer integration with, and ways to use, Solace Tech
 
@@ -21,7 +21,7 @@ SolaceCommunity offers community supported, authored and maintained open source 
 
 🥳 Contribute to a project by opening a pull-request
 
-⚙️ Fix any issue or bug you can
+🪲 Fix any issue or bug you can
 
 👩‍💻 Author your own project!
 
